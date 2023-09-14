@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "Table Scraper",
+	"description": "Downloads tables",
+	"version": "1.0",
+	"permissions": ["activeTab", "scripting", "downloads"],
+	"background": {
+		"service_worker": "background.js"
+	},
+	"action": {
+		"default_title": "Action Button"
+	}
+  }
