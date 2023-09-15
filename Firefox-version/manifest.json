@@ -10,5 +10,8 @@
 	"action": {
 		"default_icon": "img/table.png",
 		"default_title": "Download Tables"
+	},
+	"icons": {
+		"128": "img/table.png"
 	}
   }
