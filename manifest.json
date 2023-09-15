@@ -8,6 +8,7 @@
 		"service_worker": "background.js"
 	},
 	"action": {
-		"default_title": "Action Button"
+		"default_icon": "img/table.png",
+		"default_title": "Download Tables"
 	}
   }
