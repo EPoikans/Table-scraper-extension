@@ -9,5 +9,6 @@ Solid red, yellow, green, blue boxes are turned into the word format, other colo
 Data is saved into an XML file, multiple tables from a page may request permission to download multiple files which are saved as tabledata.xml. <br>
 Resulting XML files can be drag and dropped into excel.
 
-Download for firefox - https://addons.mozilla.org/en-GB/firefox/addon/table-scraper/
+Download for Firefox - https://addons.mozilla.org/en-GB/firefox/addon/table-scraper/ <br>
+
 For Chrome download Chrome-version folder and import as unpacked extension
